@@ -1,0 +1,11 @@
+E:\C#Learning\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\C#Learning\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\C#Learning\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.HoaDonBan.resources
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Login.resources
