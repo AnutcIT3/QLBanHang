@@ -10,3 +10,4 @@ E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
 E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Login.resources
 E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHDBan.resources
 E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSanPham.resources
+E:\C#Learning\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Main.resources

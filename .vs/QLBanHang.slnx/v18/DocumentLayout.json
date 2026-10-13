@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\C#Learning\\QLBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|e:\\c#learning\\qlbanhang\\qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\classes\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\classes\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,49 +42,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Program.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\Program.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Program.cs",
-              "RelativeToolTip": "QLBanHang\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T03:53:35.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmSanPham.cs",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\frmSanPham.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
-              "RelativeToolTip": "QLBanHang\\frmSanPham.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAAAB4BAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T02:12:19.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "frmSanPham.cs [Design]",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmSanPham.cs",
               "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs [Design]",
               "RelativeToolTip": "QLBanHang\\frmSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T01:52:35.939Z",
+              "WhenOpened": "2026-10-13T06:45:52.142Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Main.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Main.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Main.cs",
+              "RelativeToolTip": "QLBanHang\\Main.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:10:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Main.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Main.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Main.cs [Design]",
+              "RelativeToolTip": "QLBanHang\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:10:43.953Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Login.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs",
+              "RelativeToolTip": "QLBanHang\\Login.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T07:44:46.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\Program.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Program.cs",
+              "RelativeToolTip": "QLBanHang\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T07:44:24.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmSanPham.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
+              "RelativeToolTip": "QLBanHang\\frmSanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:46:00.145Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmHDBan.cs",
+              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmHDBan.cs",
+              "RelativeDocumentMoniker": "QLBanHang\\frmHDBan.cs",
+              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmHDBan.cs",
+              "RelativeToolTip": "QLBanHang\\frmHDBan.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAAAEABAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:18:28.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmHDBan.cs [Design]",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmHDBan.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmHDBan.cs",
@@ -84,30 +139,6 @@
               "RelativeToolTip": "QLBanHang\\frmHDBan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T01:29:23.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Function.cs",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\Function.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\Classes\\Function.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\Function.cs",
-              "RelativeToolTip": "QLBanHang\\Classes\\Function.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T14:12:34.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataProcesser.cs",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\DataProcesser.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\Classes\\DataProcesser.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\DataProcesser.cs",
-              "RelativeToolTip": "QLBanHang\\Classes\\DataProcesser.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T14:12:06.055Z"
             }
           ]
         }

@@ -38,7 +38,7 @@ namespace QLBanHang
             }
 
             // Truy vấn kiểm tra tài khoản trong bảng tblUser[cite: 21]
-            string sql = $"SELECT * FROM tblNhanVien WHERE Tennhanvien = N'{user}' AND CAST(Pass AS NVARCHAR(50)) = N'{pass}'";
+            string sql = $"SELECT * FROM tblNhanVien WHERE Manhanvien = N'{user}' AND CAST(Pass AS NVARCHAR(50)) = N'{pass}'";
             DataTable dtUser = dt.DocBang(sql);
 
             if (dtUser.Rows.Count > 0)
@@ -47,7 +47,8 @@ namespace QLBanHang
                                 MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 // Mở Form Cập nhật mặt hàng (frmSanPham)[cite: 21]
-                frmSanPham mainForm = new frmSanPham(user);
+               
+                frmHDBan mainForm = new frmHDBan(user);
                 mainForm.Show();
 
                 // Ẩn Form Đăng nhập hiện tại
