@@ -275,8 +275,26 @@ namespace QLBanHang
             TenTruong.Range["E4"].Value = "Đơn giá nhập";
             TenTruong.Range["F4"].Value = "Đơn giá bán";
 
-
+            int hang = 5;
+            for(int i = 0; i <dgvHang.Rows.Count-1; i++)
+            {
+                TenTruong.Range["A" + hang.ToString()].Value = dgvHang.Rows[i].Cells[0].Value.ToString();
+                TenTruong.Range["B" + hang.ToString()].Value = dgvHang.Rows[i].Cells[1].Value.ToString();
+                TenTruong.Range["C" + hang.ToString()].Value = dgvHang.Rows[i].Cells[2].Value.ToString();
+                TenTruong.Range["D" + hang.ToString()].Value = dgvHang.Rows[i].Cells[3].Value.ToString();
+                TenTruong.Range["E" + hang.ToString()].Value = dgvHang.Rows[i].Cells[4].Value.ToString();
+                TenTruong.Range["F" + hang.ToString()].Value = dgvHang.Rows[i].Cells[5].Value.ToString();
+                hang++;
+            }
+            exSheet.Name = "DSSanPham";
+            // kích hoạt file Excel
+            exBook.Activate();
+            SaveFileDialog dlFile = new SaveFileDialog();
+            if (dlFile.ShowDialog() == DialogResult.OK)
+                exBook.SaveAs(dlFile.FileName.ToString());
+            exApp.Quit();
         }
     }
-    
 }
+        
+

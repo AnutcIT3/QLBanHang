@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "E:\\C#Learning\\QLBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|e:\\c#learning\\qlbanhang\\qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|e:\\c#learning\\qlbanhang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|e:\\c#learning\\qlbanhang\\qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|solutionrelative:qlbanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0CD5081-3DE6-476E-AD25-B3F5116C3524}|QLBanHang\\QLBanHang.csproj|E:\\C#Learning\\QLBanHang\\qlbanhang\\frmhdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,37 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\Login.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs",
-              "RelativeToolTip": "QLBanHang\\Login.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T02:38:41.645Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs",
-              "RelativeDocumentMoniker": "QLBanHang\\Login.cs",
-              "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Login.cs [Design]",
-              "RelativeToolTip": "QLBanHang\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T02:35:23.282Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Program.cs",
               "RelativeDocumentMoniker": "QLBanHang\\Program.cs",
@@ -85,20 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmSanPham.cs",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmSanPham.cs",
               "ToolTip": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
               "RelativeToolTip": "QLBanHang\\frmSanPham.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAYwDkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAB4BAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T02:12:19.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmSanPham.cs [Design]",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmSanPham.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmSanPham.cs",
@@ -110,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "frmHDBan.cs [Design]",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\frmHDBan.cs",
               "RelativeDocumentMoniker": "QLBanHang\\frmHDBan.cs",
@@ -121,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Function.cs",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\Function.cs",
               "RelativeDocumentMoniker": "QLBanHang\\Classes\\Function.cs",
@@ -133,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "DataProcesser.cs",
               "DocumentMoniker": "E:\\C#Learning\\QLBanHang\\QLBanHang\\Classes\\DataProcesser.cs",
               "RelativeDocumentMoniker": "QLBanHang\\Classes\\DataProcesser.cs",
