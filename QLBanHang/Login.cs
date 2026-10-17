@@ -48,7 +48,7 @@ namespace QLBanHang
 
                 // Mở Form Cập nhật mặt hàng (frmSanPham)[cite: 21]
                
-                frmHDBan mainForm = new frmHDBan(user);
+                Main mainForm = new Main(user);
                 mainForm.Show();
 
                 // Ẩn Form Đăng nhập hiện tại
